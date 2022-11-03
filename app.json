@@ -1,0 +1,7 @@
+{
+	"name": "RW-WN",
+	"description": "A barebones ingle Board Computers app",
+	"repository": "https://github.com/scrabgdo/rw-wn.git",
+	"logo": "https://rw-wn.herokuapp.com/wnico.png",
+	"keywords": ["SBC", "WN"]
+}
