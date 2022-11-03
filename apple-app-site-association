@@ -8,11 +8,10 @@
             "appID":"Z8G4M9VG3B.com.cuvitek.alix.ProjectTracker",
             "components":[
                {
-                  "/":"/invitation/*",
-                  "?":{
-                     "idproject":"?*"
-                  }
-               }
+          "/": "/help/*",
+          "?": { "articleNumber": "????" },
+          "comment": "Matches any URL whose path starts with /help/ and that has a query item with name 'articleNumber' and a value of exactly 4 characters"
+        }
             ]
          }
       ]
